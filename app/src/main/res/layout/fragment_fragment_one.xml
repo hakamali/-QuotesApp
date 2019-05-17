@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="@color/colorPrimaryDark"
+    tools:context=".fragment_one">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:weightSum="17"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="1.Romantic Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="2.Love Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="3.Friendship Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="4.Naughty Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="5.Father Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="6.New Year Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+            android:background="@drawable/btn_custum"
+            android:text="7.Attitude Quotes"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_width="380dp"
+            android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="8.Funny Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="9.Nice Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text=" 10.Cool Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="11.Valentine Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="12.Mother Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="13.Motivational Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="14.Sad Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="15.Relationship Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="16.Rude Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#7CFC00"
+                android:background="@drawable/btn_custum"
+                android:text="17.Life Quotes"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+</FrameLayout>

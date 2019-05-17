@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="#00FFFF"
+    tools:context=".fragment_one">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:weightSum="17"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="1.Amazing Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="2.Angry Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+
+            <Button
+                android:layout_width="380dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_custum"
+                android:text="3.Aniversary Status"
+                android:textAlignment="center"
+                android:textColor="#CE1620"
+                android:textSize="25sp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="4.April Fool Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+
+            <Button
+                android:layout_width="377dp"
+                android:layout_height="51dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_custum"
+                android:text="5.Birthday Status"
+                android:textAlignment="center"
+                android:textColor="#CE1620"
+                android:textSize="25sp" />
+
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="7.Broken Heart Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+
+            <Button
+                android:layout_width="380dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_custum"
+                android:text="6.Break Up Status"
+                android:textAlignment="center"
+                android:textColor="#CE1620"
+                android:textSize="25sp" />
+
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="8.Clever Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                 android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="9.Cristmas Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text=" 10.Crazy Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="11.Crush Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="12.Creative Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="13.Cute Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="14.Daring Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="15.Decent Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="16.Dirty Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="17.Emotional Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="18.Engagement Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="19.Exam Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="20.Flirt Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="21.Food Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="22.Girls and boys Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="23.Good Luck Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="24.Good Morning Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="25.Good Night Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="26.Hello Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="27.Insult Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="28.Kiss Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+            <Button
+                android:textColor="#CE1620"
+                android:background="@drawable/btn_custum"
+                android:text="29.Missing You Status"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_width="380dp"
+                android:layout_height="50dp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+</FrameLayout>
